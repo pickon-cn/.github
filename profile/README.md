@@ -1,1 +1,1 @@
-![Pickon选品工具](./Pickon海报-small.png)
+![Pickon选品工具](https://github.com/pickon-cn/.github/blob/main/profile/Pickon%E6%B5%B7%E6%8A%A5-small.png)
